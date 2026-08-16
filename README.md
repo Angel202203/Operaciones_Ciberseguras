@@ -12,3 +12,9 @@ Ciberseguridad de Duodécimo
       -Seguridad en la Capa de Aplicación en loT.
 
 3-Trabajo II Semestre:
+  En este se trabajo en un cuestionario y una resolución de preguntas de los temas de:
+      -Arquitecturas, Marcos de Seguridad de Redes y Detección de Anomalías. En "Marco Seguridad Redes SOC"
+      -Roles, Responsabilidades y Equipos en un SOC. En "Roles - Alerta del SOC"
+
+4-Trabajo II Semestre:
+  
